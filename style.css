@@ -134,9 +134,8 @@
 
  .blog{
     display:flex;
-    flex-wrap:warp;
+    flex-wrap:wrap;
     justify-content:space-between; 
-    background-image:url('../images/blog.jpg');
     margin-bottom:50px;
 }
 .box{
