@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width:90%;
+    margin:auto;
+}
+#navbar{
+    font-family: 'Roboto', sans-serif;
+    text-align:right;
+    padding-top:50px;
+}
+#navbar li{
+    display:inline;
+    padding-left:20px;
+}
+#navbar a{
+    color:black;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.half{
+    width:40%;
+    float:left;
+    padding-left:10%;
+}
+.half img{
+    width:100%;
+
+}
+.heading{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing:2px;
+    font-size:50px;
+    color:#363958;
+}
+.half p{
+    color:#3E3E3E;
+    padding-bottom: 10px;;
+}
+.para{
+    padding-top:200px;
+}
+.highlight{
+    color:#FF8367;
+}
+.button{
+    background-color:#f66560;
+    color:white;
+    text-decoration: none;
+    padding:20px 50px;
+    border-radius:10px;
+}
+
+
+
+
+
+
+
+
+#project{
+    clear:both;
+    background-color:#E5E5E5;
+    min-height:650px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#project-name{
+    text-align:center;
+    padding:50px 0;
+}
+.project-box{
+   width:30%;
+   float:left;
+   background-color:white;
+   margin-left:3%;
+   padding:20px;
+   box-shadow:5px 5px 40px gray;
+   border-radius:30px;
+}
+.project-box img{
+    width:95%;
+}
+.project-box h1{
+    color:#363958;
+    padding:20px 0;
+}
+.porject-box p{
+    color:#6C6C6C;
+}
+
+
+
+
+
+#inquary{
+    width:50%;
+    margin:100px auto;
+    padding:70px 70px 120px 70px;
+    border-radius:30px;
+    background-image:url("images/bg-inquary.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#inquary h1{
+    float:left;
+}
+#inquary a{
+    float:right;
+}
+
+
+
+
+
+
+footer{
+    text-align:center;
+    margin-bottom:100px;
+}
+
+footer h2{
+    font-family: 'Bebas Neue', cursive;
+    color:#696871;
+}
+footer h1{
+    font-family: 'Roboto', sans-serif;
+    padding:10px 0;
+    color:#363958;
+}
+footer img{
+    margin-left:20px;
+    width:50px;
+    height:50px;
+}
