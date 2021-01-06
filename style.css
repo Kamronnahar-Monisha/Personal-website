@@ -55,10 +55,10 @@
     padding-top:100px;
 }
 .highlight{
-    color:#FF8367;
+    color:#67e1ff;
 }
 .button{
-    background-image: linear-gradient(#f46060,#fd7763);
+    background-image: linear-gradient(#ce10a5,#f867e5);
     /*background-color:#f66560;*/
     color:white;
     text-decoration: none;
