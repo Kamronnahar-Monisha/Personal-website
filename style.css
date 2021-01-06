@@ -12,6 +12,7 @@
     font-family: 'Roboto', sans-serif;
     text-align:right;
     padding-top:50px;
+    padding-bottom:50px;
 }
 #navbar li{
     display:inline;
@@ -30,9 +31,6 @@
 
 
 
-
-
-
 .half{
     width:40%;
     float:left;
@@ -40,7 +38,8 @@
 }
 .half img{
     width:100%;
-
+    margin-bottom:20px;
+    
 }
 .heading{
     font-family: 'Bebas Neue', cursive;
@@ -53,13 +52,14 @@
     padding-bottom: 10px;;
 }
 .para{
-    padding-top:200px;
+    padding-top:100px;
 }
 .highlight{
     color:#FF8367;
 }
 .button{
-    background-color:#f66560;
+    background-image: linear-gradient(#f46060,#fd7763);
+    /*background-color:#f66560;*/
     color:white;
     text-decoration: none;
     padding:20px 50px;
